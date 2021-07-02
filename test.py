@@ -1,10 +1,8 @@
 ############################################################################################################
 #                                                                                                          #
 #                                                                                                          #
-#                          Code is provided by Oleksii Nasypanyi aka LexaNagibator                         #
+#                          Code is provided by Oleksii aka LexaNagibator                         #
 #                                           For personal use only                                          #
-#                                          o.nasypanyi@kaist.ac.kr                                         #
-#                                               010 4885 9111                                              #
 #                                                                                                          #
 ############################################################################################################
 import torch
